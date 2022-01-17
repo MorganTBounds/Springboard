@@ -1,0 +1,1 @@
+My deployment method will be an API. The API will take as input a Tweet ID and return as output the probability of that Tweet containing hate speech. I will develop the API using Flask. I need to build, test, debug, and then publish it. 
