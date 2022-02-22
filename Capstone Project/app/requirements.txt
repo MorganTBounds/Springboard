@@ -1,5 +1,0 @@
-tweepy
-pandas
-streamlit
-sklearn
-matplotlib
