@@ -10,3 +10,7 @@ https://share.streamlit.io/morgantbounds/app
 4. You may manually alter the text from the Tweet, or enter your own (must be under 280 characters). 
 
 5. When you are ready for the model to classify the text inside the Tweet box, click "Classify Tweet". A bar chart will appear with the model's probabilistic prediction of the Tweet being "Not Hate" vs "Hate". 
+
+# Methodology
+
+To see the methodology used for this project, please navigate to the "Capstone Project" folder. Once inside the folder, you can see the data used to train the model (along with the code used to collect it) inside the "data" folder. To see how the data was wrangled, please navigate to the "wrangling_and_exploration.ipynb" file. To see how the model was selected, please navigate to the "model_selection.ipynb" file. 
